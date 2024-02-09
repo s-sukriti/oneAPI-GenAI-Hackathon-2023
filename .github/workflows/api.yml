@@ -1,0 +1,27 @@
+name: API
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  your-job-name:
+    runs-on: ubuntu-latest
+
+    env:
+      OPENAI_API_KEY: ${{ secrets.openAPI }}
+      PINECONE_API_KEY: ${{ secrets.pinecone }}
+      DETA_KEY: ${{ secrets.deta }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Run your command with API keys
+        run: |
+          echo "OpenAI API Key: $openAPI"
+          echo "Pinecone API Key: $pinecone"
+          echo "DETA Key: $deta"
+
+          # Add your command here that uses the API keys
