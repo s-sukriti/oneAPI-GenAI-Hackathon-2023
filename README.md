@@ -1,18 +1,3 @@
-![image](https://github.com/s-sukriti/oneAPI-GenAI-Hackathon-2023/assets/141410833/d2d6e84b-94ac-4929-bf74-099a1e6ab4dd)# oneAPI-GenAI-Hackathon-2023 - Hack2Skill
-
-Welcome to the official repository for the oneAPI-GenAI-Hackathon-2023 organized by Hack2Skill!
-
-## Getting Started
-
-To get started with the oneAPI-GenAI-Hackathon-2023 repository, follow these steps:
-
-### Submission Instruction:
-  1. Fork this repository
-  2. Create a folder with your Team Name
-  3. Upload all the code and necessary files in the created folder
-  4. Upload a **README.md** file in your folder with the below mentioned informations.
-  5. Generate a Pull Request with your Team Name. (Example: submission-XYZ_team)
-
 ### README.md must consist of the following information:
 
 #### Team Name - Cyber Minions
