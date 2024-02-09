@@ -1,0 +1,15 @@
+streamlit
+streamlit_chat
+streamlit-authenticator
+langchain
+sentence_transformers
+pinecone-client
+openai==0.28
+deta
+streamlit-option-menu
+streamlit-chat
+pinecone-client
+
+
+
+
