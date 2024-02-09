@@ -1,6 +1,7 @@
 {
-    "openai_api_key": ${{ secrets.openAPI }},
-    "pinecone_api_key": ${{ secrets.pinecone }},
-    "DETA_KEY" : ${{ secrets.deta }}
+    "openai_api_key": "",
+    "pinecone_api_key": "",
+    "DETA_KEY": ""
 }
+
 
