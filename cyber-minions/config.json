@@ -1,6 +1,6 @@
 {
-    "openai_api_key": "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",
-    "pinecone_api_key": "de3defb8-3e52-4ccf-82b1-9d785b981ec5",
-    "DETA_KEY" : "d0chwunr3on_DgUVxRYrLXEHhJ665rhgRk7TWBLSn1fa"
+    "openai_api_key": ${{ secrets.openAPI }},
+    "pinecone_api_key": ${{ secrets.pinecone }},
+    "DETA_KEY" : ${{ secrets.deta }}
 }
 
