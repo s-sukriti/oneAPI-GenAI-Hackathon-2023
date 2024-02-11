@@ -2,7 +2,6 @@
 
 #### Team Name - Cyber Minions
 #### Problem Statement - Chatbot to respond to text queries pertaining to various Acts, Rules, and Regulations applicable to Mining industries.
-#### Team Leader Email - sukriti.srinivasa@gmail.com
 
 ### A Brief of the Prototype:
   This section must include UML Diagrams and prototype description
